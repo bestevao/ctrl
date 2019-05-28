@@ -80,7 +80,6 @@
 
 	<script type="text/javascript" src="{{ URL::asset('/js/function.js') }}"></script>
 	<script type="text/javascript" src="{{ URL::asset('/js/jquery.js') }}"></script>
-	<script type="text/javascript" src="{{ URL::asset('/js/jquery.min.js') }}"></script>
 
 </body>
 </html>
